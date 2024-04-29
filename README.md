@@ -8,6 +8,8 @@
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/badmunda011/AlbedoBot"> <img 
+src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/badmunda011/AlbedoBot"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 
 ![Python Version](https://img.shields.io/badge/python-3.10-green?style=for-the-badge&logo=appveyor)
 ![Issues](https://img.shields.io/github/issues/Rachit-Pal/AlbedoBot?style=for-the-badge&logo=appveyor)
